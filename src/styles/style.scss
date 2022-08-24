@@ -1,0 +1,83 @@
+@use './props.scss';
+
+*, *::before, *::after{
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+html{
+    background-color: var(--gray-0);
+    overflow-x: hidden
+}
+
+body{
+    position: relative;
+    overflow-x: hidden
+}
+
+textarea {
+   resize: vertical;
+}
+
+a{
+    text-decoration: none;
+    font-family: var(--ff-text);
+    color: rgb(72, 151, 253);
+    cursor: pointer;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+h1{
+    font-family: var(--ff-title);
+    font-size: var(--font-size-fluid-3);
+    line-height: 1.3em;
+    // margin: var(--spacing-sm) 0;
+}
+
+h2{
+    font-family: var(--ff-title);
+    font-size: var(--font-size-fluid-2);
+    line-height: 1.3em;
+}
+
+h3{
+    font-family: var(--ff-title);
+    font-size: var(--font-size-fluid-1);
+    line-height: 1.3em;
+}
+
+p{
+    font-family: var(--ff-text);
+    font-size: calc( var(--font-size-fluid-0) + 0.3em);
+    letter-spacing: var(--font-letterspacing-2);
+    line-height: var(--font-lineheight-3);
+    word-spacing: 0.16em;
+    color: var(--clr-txt-light);
+}
+
+span{
+    font-family: var(--ff-text);
+    font-size: calc( var(--font-size-fluid-0) + 0.2em);
+    line-height: var(--font-lineheight-3);
+    word-spacing: 0.16em;
+    letter-spacing: var(--font-letterspacing-2);
+}
+
+ul{
+    li{
+        font-family: var(--ff-text);
+        font-size: calc( var(--font-size-fluid-0) + 0.2em);
+        line-height: var(--font-lineheight-3);
+        word-spacing: 0.16em;
+        letter-spacing: var(--font-letterspacing-2);
+    }
+}
+
+
+

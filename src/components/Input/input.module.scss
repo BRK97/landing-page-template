@@ -1,0 +1,78 @@
+@use '../../styles/devices.scss' as *;
+
+.wrapper{
+    // border: 1px solid red;
+    width: 100%;
+    margin: 0 auto;
+    // height: 100px;
+    .inner{
+        width: 100%;
+        position: relative;
+    }
+}
+
+.input{
+    width: 100%;
+    font-size: calc(var(--font-size-fluid-0) + 0.2em);
+    border: 1.5px solid transparent;
+    background-color: var(--gray-1);
+    padding: 
+    var(--spacing-lg) 
+    var(--spacing-md) 
+    var(--spacing-xs) 
+    var(--spacing-md);
+    font-family: var(--ff-text);
+    
+    @media #{$break1}{
+        font-size: calc(var(--font-size-fluid-0) + 0.4em);
+    }
+
+    &:focus {
+    // box-shadow: var(--box-shadow-a20);
+    border-color: var(--clr-feedback-info);
+    outline: none;
+  }
+    &:focus + label,
+    &.hasText + .label {
+        font-size: calc(var(--font-size-fluid-0) - 0.1em);
+        top: var(--spacing-xs);
+        transform: translateY(0);
+        color: var(--gray-7);
+        transition: all 250ms ease-in-out;
+
+        @media #{$break1}{
+            font-size: calc(var(--font-size-fluid-0));
+        }
+    }
+}
+
+.label{
+    font-family: var(--ff-text);
+    font-size: var(--font-size-fluid-0);
+    position: absolute;
+    top: 50%;
+    left: var(--spacing-md);
+    transform: translateY(-50%);
+    transition: all 250ms ease-in-out;
+    
+    @media #{$break1}{
+        font-size: calc( var(--font-size-fluid-0) + 0.3em);
+    }
+}
+.errorLabel{
+    top: 34%;
+}
+
+
+.errorInput{
+    border-color: var(--clr-feedback-error);
+
+}
+.errorNotification{
+    color: var(--clr-feedback-error);
+    font-size: var(--font-size-fluid-0);
+    display: flex;
+    gap: var(--spacing-sm);
+    padding-top: var(--spacing-sm);
+    margin: 0 !important;
+}

@@ -1,0 +1,68 @@
+@use '../../styles/devices.scss' as *;
+
+.footer {
+    background-color: var(--clr-bg-light);
+    // border-top: 1px solid var(--gray-3);
+    padding: var(--spacing-xl) 0 var(--spacing-sm) 0;
+
+    &-logo{
+        width: 180px;
+    }
+    &-container{
+        width: var(--w-main);
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: var(--spacing-md);
+
+        @media #{$break1}{
+            width: 86%;
+        }
+    }
+    .company-slogan{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: var(--spacing-sm);
+        .slogan{
+            font-family: var(--ff-quote);
+        }
+    }
+    &-list{
+        display: flex;
+        gap: var(--spacing-sm);
+        flex-wrap: wrap;
+        justify-content:center;
+        padding-bottom: var(--spacing-lg);
+        border-bottom: 2px solid var(--gray-5);
+    }
+    &-bottomLine{
+        & > *{
+            font-size: var(--font-size-fluid-0);
+            color: var(--clr-txt-dark);
+            text-align: center;
+        }
+        ul{
+            display: flex;
+            justify-content: center;
+            gap: var(--spacing-sm);
+            li{
+                font-size: var(--font-size-fluid-0);
+            }
+        }
+        
+        p{
+            margin-top: var(--spacing-sm);
+            a{
+                // color: var(--clr-txt-dark);
+                font-size: calc(var(--font-size-fluid-0) + 0.2em);
+
+            }
+            .github{
+                color: var(--clr-txt-dark);
+            }
+        }
+    }
+}

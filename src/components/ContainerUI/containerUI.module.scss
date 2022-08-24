@@ -1,0 +1,34 @@
+@use '../../styles/devices.scss' as *;
+
+.mainContainer{
+    width: var(--w-main);
+    min-height: 100%;
+    margin: 0 auto;
+    // border: 2px solid lightblue;
+}
+
+.container{
+    // width: 84%;
+    min-height: 100%;
+    margin: 0 auto;
+    // border: 1px solid lightblue;
+
+    &.half{
+        width: 50%;
+    }
+    &.md{
+        width: 70%;
+    }
+    &.sm{
+        // border: 1px solid lightblue;
+        width: 30%;
+
+        @media #{$break1}{
+            width: 80%;
+        }
+        @media #{$break2}{
+            width: 60%;
+        }
+        
+    }
+}

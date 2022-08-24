@@ -1,0 +1,25 @@
+@use '../../styles/devices.scss' as *;
+
+.polygon{
+    height: var(--spacing-hero);
+    background-color: var(--clr-bg-light);
+    clip-path: polygon(0 0, 100% 0, 0 60%);
+    fill: var(--clr-bg-dark);
+    margin-bottom: calc(var(--spacing-hero)*2);
+    
+    @media #{$break3} {
+        clip-path: polygon(0 0, 100% 0, 0 90%);
+    }
+}
+
+.polygonFlipped{
+    height: var(--spacing-hero);
+    background-color: var(--clr-bg-dark);
+    clip-path: polygon(0 0, 100% 0, 0 60%);
+    fill: var(--clr-bg-dark);
+    margin-top: calc(var(--spacing-hero));
+    
+    @media #{$break3} {
+        clip-path: polygon(0 0, 100% 0, 0 90%);
+    }
+}

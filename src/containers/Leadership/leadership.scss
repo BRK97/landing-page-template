@@ -1,0 +1,68 @@
+@use '../../styles/devices.scss' as *;
+.leadership{
+    min-height: 100vh;
+    width: 100%;
+    color: white;
+    padding: var(--spacing-hero) 0;
+    background-color: #021e28;
+    .imageBG{
+        position: relative;
+        height: calc(var(--spacing-hero) * 4.4);
+        .polaroid{
+            height: 100%;
+            width: 100%;
+            background: url('../../assets/wheat-field-bg.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: repeat;
+            filter: brightness(0.6);
+        }
+        .leadership-title{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .callToAction-div{
+            position: absolute;
+            top: 75%;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .callToAction-icon{
+            width: 20px;
+            animation: bounce 2s cubic-bezier(.5, -.3, .1, 1.5) infinite;
+        }
+        @keyframes bounce {
+            25% { transform: translateY(-20%) }
+            40% { transform: translateY(-3%) }
+            0%, 60%, 100% { transform: translateY(0) }
+        }   
+    }
+    .executive-title{
+        width: 100%;
+        font-size: calc( var(--font-size-fluid-1) + 0.2em);
+        text-align: center;
+        letter-spacing: var(--font-letterspacing-3);
+        margin: var(--spacing-hero) auto;
+    }
+    .executive-cards{
+        width: var(--w-main);
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        --gap: var(--spacing-md);
+
+        & > *{
+            margin: var(--gap) 0 0 var(--gap);
+
+            @media #{$break1}{
+                margin: var(--gap)0 0 0;
+            }
+        }
+        
+    }
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+    /* Containers */
+    --w-main: 78%;
+    --w-secondary: 54%;
+    --w-mobile: 90%;
+
+    /* Layout */
+    --spacing-base:       8px;
+    
+    --spacing-xxs:       calc(var(--spacing-base) / 4);      
+    --spacing-xs:        calc(var(--spacing-base) / 2);      
+    --spacing-sm:        calc(var(--spacing-base));          
+    --spacing-md:        calc(var(--spacing-base) * 2);     
+    --spacing-lg:        calc(var(--spacing-base) * 3);      
+    --spacing-xl:        calc(var(--spacing-base) * 4);      
+    --spacing-xxl:       calc(var(--spacing-base) * 5);      
+    --spacing-hero:      calc(var(--spacing-base) * 8);      
+    
+    /* Fonts */
+    --ff-title:             'Montserrat', sans-serif;
+    // --ff-title:             'Rubik', sans-serif;
+    --ff-text:              'Nunito Sans', sans-serif;
+    --ff-quote:             'Cormorant Garamond', serif;
+    --ff-elegent:           'Raleway', sans-serif;
+    
+    /* Colors */
+    --clr-bg-light:             #ffffff;
+    --clr-bg-dark:              #1d263b;
+    --clr-main-blue:            #62A6FF;
+    --clr-main-blue-s:          #5324ff;
+    --clr-main-green:           #00F0B4;
+    --clr-main-purple:          #C88AFF;
+    --clr-main-gold:            #C5B358;
+    --clr-main-red:             #FF3838;
+
+    --clr-txt-light:            #FFFFFF;
+    --clr-txt-dark:             #212121;
+
+    --clr-feedback-info:        #205A6D;
+    --clr-feedback-success:     #0CA74F;
+    --clr-feedback-warning:     #FFECB3;
+    --clr-feedback-error:       #CA2002;
+    
+}
+
+// e9ecea
+// ccb181
+// b0b1ad

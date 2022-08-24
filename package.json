@@ -1,0 +1,29 @@
+{
+  "name": "shibboleth_group",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^6.3.11",
+    "open-props": "^1.4.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-spinners": "^0.13.4",
+    "sass": "^1.52.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "postcss": "^8.4.14",
+    "postcss-jit-props": "^1.0.7",
+    "vite": "^2.9.9"
+  }
+}

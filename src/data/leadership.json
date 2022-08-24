@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "fullName": "Sigmund Freud",
+        "jobTitle": "Co-Founder and chief executive officer",
+        "education": "PhD",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "https://twitter.com",
+        "githubLink": "https://github.com",
+        "about": "Sigmund Freud, (born May 6, 1856, Freiberg, Moravia, Austrian Empire [now Příbor, Czech Republic]—died September 23, 1939, London, England), Austrian neurologist and the founder of psychoanalysis. Freud’s article on psychoanalysis appeared in the 13th edition of the Encyclopædia Britannica.\n\nFreud may justly be called the most influential intellectual legislator of his age. His creation of psychoanalysis was at once a theory of the human psyche, a therapy for the relief of its ills, and an optic for the interpretation of culture and society. Despite repeated criticisms, attempted refutations, and qualifications of Freud’s work, its spell remained powerful well after his death and in fields far removed from psychology as it is narrowly defined. If, as the American sociologist Philip Rieff once contended, “psychological man” replaced such earlier notions as political, religious, or economic man as the 20th century’s dominant self-image, it is in no small measure due to the power of Freud’s vision and the seeming inexhaustibility of the intellectual legacy he left behind."
+    },
+    {
+        "id": 1, 
+        "fullName": "Carl Jung",
+        "jobTitle": "Co-Founder and chief shadow officer",
+        "education": "professor",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "",
+        "githubLink": "https://github.com",
+        "about": "Carl Jung, in full Carl Gustav Jung, (born July 26, 1875, Kesswil, Switzerland—died June 6, 1961, Küsnacht), Swiss psychologist and psychiatrist who founded analytic psychology, in some aspects a response to Sigmund Freud’s psychoanalysis. Jung proposed and developed the concepts of the extraverted and the introverted personality, archetypes, and the collective unconscious. His work has been influential in psychiatry and in the study of religion, literature, and related fields.\n\nJung's thought was formed by early family influences, which on the maternal side were a blend of interest in the occult and in solid reformed academic theology. On his father's side were two important figures, his grandfather, the physician and academic scientist Karl Gustav Jung, and Lotte Kestner, the niece of German polymath Johann Wolfgang Goethe's 'Lottchen'. Although he was a practicing clinician and writer and as such founded analytical psychology, much of his life's work was spent exploring other areas such as quantum physics, vitalism, Eastern and Western philosophy including epistemology, alchemy, astrology, and sociology, as well as literature and the arts.\n\nJung's interest in philosophy and spiritual subjects led many to view him as a mystic, although his preference was to be seen as a man of science; Jung was, unlike Freud, heavily knowledgeable on philosophical concepts and aimed to link the branch of epistemology to the more modern theories of psychology."
+    },
+    {
+        "id": 2,
+        "fullName": "Albert Bandura",
+        "jobTitle": "chief financial officer",
+        "education": "PhD",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "",
+        "githubLink": "https://github.com",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed quam sed sem dignissim dignissim ut eu lectus. Integer sagittis maximus dui ut facilisis. Donec dictum gravida eleifend. Praesent at justo sed massa pretium auctor. Nam dignissim viverra dui, ullamcorper varius mi commodo ac. Donec at lectus eget felis luctus blandit. Vestibulum laoreet dapibus nunc, eget dignissim eros. Nullam eleifend elit sed nunc pretium sagittis. Vestibulum lacinia nunc a nisi maximus rhoncus. Pellentesque tempor, ligula eget aliquam pretium, nisi lectus rutrum lacus, a porttitor justo quam sed odio. Nulla lobortis enim ac sapien consectetur laoreet. Nulla imperdiet ante non pulvinar facilisis.Aenean id tristique diam. Aenean vel nisi interdum, facilisis est ut, ultrices ligula. Suspendisse hendrerit pellentesque lectus. Phasellus dictum placerat blandit. Praesent dictum nisl vitae ante mollis, vel venenatis orci lobortis. Praesent nisi dolor, convallis sed venenatis quis, blandit nec justo. Donec eget risus ac tortor suscipit gravida. Vestibulum ac nibh nec dui sodales varius non id mi. Curabitur nec eros sed mi iaculis posuere. Mauris elit leo, ornare ac quam vitae, tincidunt convallis lacus. Maecenas in pulvinar ex, quis rutrum tellus. Duis est mi, sagittis non venenatis id, dignissim in ex. Maecenas blandit elit elit. Praesent sit amet interdum sapien. Nunc tincidunt ligula mattis, euismod lacus ut, semper sem. In egestas pretium lorem, vitae mollis nisl dictum id."
+    },
+    {
+        "id": 3,
+        "fullName": "G. Stanley Hall",
+        "jobTitle": "chief technology officer",
+        "education": "professor",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "https://twitter.com",
+        "githubLink": "https://github.com",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed quam sed sem dignissim dignissim ut eu lectus. Integer sagittis maximus dui ut facilisis. Donec dictum gravida eleifend. Praesent at justo sed massa pretium auctor. Nam dignissim viverra dui, ullamcorper varius mi commodo ac. Donec at lectus eget felis luctus blandit. Vestibulum laoreet dapibus nunc, eget dignissim eros. Nullam eleifend elit sed nunc pretium sagittis. Vestibulum lacinia nunc a nisi maximus rhoncus. Pellentesque tempor, ligula eget aliquam pretium, nisi lectus rutrum lacus, a porttitor justo quam sed odio. Nulla lobortis enim ac sapien consectetur laoreet. Nulla imperdiet ante non pulvinar facilisis.Aenean id tristique diam. Aenean vel nisi interdum, facilisis est ut, ultrices ligula. Suspendisse hendrerit pellentesque lectus. Phasellus dictum placerat blandit. Praesent dictum nisl vitae ante mollis, vel venenatis orci lobortis. Praesent nisi dolor, convallis sed venenatis quis, blandit nec justo. Donec eget risus ac tortor suscipit gravida. Vestibulum ac nibh nec dui sodales varius non id mi. Curabitur nec eros sed mi iaculis posuere. Mauris elit leo, ornare ac quam vitae, tincidunt convallis lacus. Maecenas in pulvinar ex, quis rutrum tellus. Duis est mi, sagittis non venenatis id, dignissim in ex. Maecenas blandit elit elit. Praesent sit amet interdum sapien. Nunc tincidunt ligula mattis, euismod lacus ut, semper sem. In egestas pretium lorem, vitae mollis nisl dictum id."
+    },
+    {
+        "id": 4,
+        "fullName": "G. Stanley Hall",
+        "jobTitle": "chief technology officer",
+        "education": "professor",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "https://twitter.com",
+        "githubLink": "https://github.com",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed quam sed sem dignissim dignissim ut eu lectus. Integer sagittis maximus dui ut facilisis. Donec dictum gravida eleifend. Praesent at justo sed massa pretium auctor. Nam dignissim viverra dui, ullamcorper varius mi commodo ac. Donec at lectus eget felis luctus blandit. Vestibulum laoreet dapibus nunc, eget dignissim eros. Nullam eleifend elit sed nunc pretium sagittis. Vestibulum lacinia nunc a nisi maximus rhoncus. Pellentesque tempor, ligula eget aliquam pretium, nisi lectus rutrum lacus, a porttitor justo quam sed odio. Nulla lobortis enim ac sapien consectetur laoreet. Nulla imperdiet ante non pulvinar facilisis.Aenean id tristique diam. Aenean vel nisi interdum, facilisis est ut, ultrices ligula. Suspendisse hendrerit pellentesque lectus. Phasellus dictum placerat blandit. Praesent dictum nisl vitae ante mollis, vel venenatis orci lobortis. Praesent nisi dolor, convallis sed venenatis quis, blandit nec justo. Donec eget risus ac tortor suscipit gravida. Vestibulum ac nibh nec dui sodales varius non id mi. Curabitur nec eros sed mi iaculis posuere. Mauris elit leo, ornare ac quam vitae, tincidunt convallis lacus. Maecenas in pulvinar ex, quis rutrum tellus. Duis est mi, sagittis non venenatis id, dignissim in ex. Maecenas blandit elit elit. Praesent sit amet interdum sapien. Nunc tincidunt ligula mattis, euismod lacus ut, semper sem. In egestas pretium lorem, vitae mollis nisl dictum id."
+    },
+    {
+        "id": 5,
+        "fullName": "G. Stanley Hall",
+        "jobTitle": "chief technology officer",
+        "education": "professor",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "https://twitter.com",
+        "githubLink": "https://github.com",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed quam sed sem dignissim dignissim ut eu lectus. Integer sagittis maximus dui ut facilisis. Donec dictum gravida eleifend. Praesent at justo sed massa pretium auctor. Nam dignissim viverra dui, ullamcorper varius mi commodo ac. Donec at lectus eget felis luctus blandit. Vestibulum laoreet dapibus nunc, eget dignissim eros. Nullam eleifend elit sed nunc pretium sagittis. Vestibulum lacinia nunc a nisi maximus rhoncus. Pellentesque tempor, ligula eget aliquam pretium, nisi lectus rutrum lacus, a porttitor justo quam sed odio. Nulla lobortis enim ac sapien consectetur laoreet. Nulla imperdiet ante non pulvinar facilisis.Aenean id tristique diam. Aenean vel nisi interdum, facilisis est ut, ultrices ligula. Suspendisse hendrerit pellentesque lectus. Phasellus dictum placerat blandit. Praesent dictum nisl vitae ante mollis, vel venenatis orci lobortis. Praesent nisi dolor, convallis sed venenatis quis, blandit nec justo. Donec eget risus ac tortor suscipit gravida. Vestibulum ac nibh nec dui sodales varius non id mi. Curabitur nec eros sed mi iaculis posuere. Mauris elit leo, ornare ac quam vitae, tincidunt convallis lacus. Maecenas in pulvinar ex, quis rutrum tellus. Duis est mi, sagittis non venenatis id, dignissim in ex. Maecenas blandit elit elit. Praesent sit amet interdum sapien. Nunc tincidunt ligula mattis, euismod lacus ut, semper sem. In egestas pretium lorem, vitae mollis nisl dictum id."
+    },
+    {
+        "id": 6,
+        "fullName": "G. Stanley Hall",
+        "jobTitle": "chief technology officer",
+        "education": "professor",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "https://twitter.com",
+        "githubLink": "https://github.com",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed quam sed sem dignissim dignissim ut eu lectus. Integer sagittis maximus dui ut facilisis. Donec dictum gravida eleifend. Praesent at justo sed massa pretium auctor. Nam dignissim viverra dui, ullamcorper varius mi commodo ac. Donec at lectus eget felis luctus blandit. Vestibulum laoreet dapibus nunc, eget dignissim eros. Nullam eleifend elit sed nunc pretium sagittis. Vestibulum lacinia nunc a nisi maximus rhoncus. Pellentesque tempor, ligula eget aliquam pretium, nisi lectus rutrum lacus, a porttitor justo quam sed odio. Nulla lobortis enim ac sapien consectetur laoreet. Nulla imperdiet ante non pulvinar facilisis.Aenean id tristique diam. Aenean vel nisi interdum, facilisis est ut, ultrices ligula. Suspendisse hendrerit pellentesque lectus. Phasellus dictum placerat blandit. Praesent dictum nisl vitae ante mollis, vel venenatis orci lobortis. Praesent nisi dolor, convallis sed venenatis quis, blandit nec justo. Donec eget risus ac tortor suscipit gravida. Vestibulum ac nibh nec dui sodales varius non id mi. Curabitur nec eros sed mi iaculis posuere. Mauris elit leo, ornare ac quam vitae, tincidunt convallis lacus. Maecenas in pulvinar ex, quis rutrum tellus. Duis est mi, sagittis non venenatis id, dignissim in ex. Maecenas blandit elit elit. Praesent sit amet interdum sapien. Nunc tincidunt ligula mattis, euismod lacus ut, semper sem. In egestas pretium lorem, vitae mollis nisl dictum id."
+    },
+    {
+        "id": 7,
+        "fullName": "G. Stanley Hall",
+        "jobTitle": "chief technology officer",
+        "education": "professor",
+        "linkedinLink": "https://linkedin.com",
+        "twitterLink": "https://twitter.com",
+        "githubLink": "https://github.com",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed quam sed sem dignissim dignissim ut eu lectus. Integer sagittis maximus dui ut facilisis. Donec dictum gravida eleifend. Praesent at justo sed massa pretium auctor. Nam dignissim viverra dui, ullamcorper varius mi commodo ac. Donec at lectus eget felis luctus blandit. Vestibulum laoreet dapibus nunc, eget dignissim eros. Nullam eleifend elit sed nunc pretium sagittis. Vestibulum lacinia nunc a nisi maximus rhoncus. Pellentesque tempor, ligula eget aliquam pretium, nisi lectus rutrum lacus, a porttitor justo quam sed odio. Nulla lobortis enim ac sapien consectetur laoreet. Nulla imperdiet ante non pulvinar facilisis.Aenean id tristique diam. Aenean vel nisi interdum, facilisis est ut, ultrices ligula. Suspendisse hendrerit pellentesque lectus. Phasellus dictum placerat blandit. Praesent dictum nisl vitae ante mollis, vel venenatis orci lobortis. Praesent nisi dolor, convallis sed venenatis quis, blandit nec justo. Donec eget risus ac tortor suscipit gravida. Vestibulum ac nibh nec dui sodales varius non id mi. Curabitur nec eros sed mi iaculis posuere. Mauris elit leo, ornare ac quam vitae, tincidunt convallis lacus. Maecenas in pulvinar ex, quis rutrum tellus. Duis est mi, sagittis non venenatis id, dignissim in ex. Maecenas blandit elit elit. Praesent sit amet interdum sapien. Nunc tincidunt ligula mattis, euismod lacus ut, semper sem. In egestas pretium lorem, vitae mollis nisl dictum id."
+    }
+]

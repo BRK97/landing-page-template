@@ -1,0 +1,23 @@
+@use '../../styles/devices.scss' as *;
+
+.btn{
+    border: none;
+    font-size: var(--font-size-fluid-1);
+    cursor: pointer;
+}
+
+.btn-Contact{
+    padding: var(--spacing-sm);
+    background-color: var(--clr-main-blue-s);
+    color: var(--clr-txt-light);
+    width: 100%;
+
+    @media #{$break3}{
+        width: fit-content;
+        padding-inline: var(--spacing-hero);
+    }
+
+    &:hover{
+        background-color: #5324ffdd;
+    }
+}
